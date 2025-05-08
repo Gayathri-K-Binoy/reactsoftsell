@@ -2,7 +2,7 @@
 
 > Transform unused software licenses into cash with our streamlined marketplace platform
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://softsell-llsob92b5-gayathri-k-binoys-projects.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://softsell-d1pep1r83-gayathri-k-binoys-projects.vercel.app/)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-38B2AC.svg)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer-Motion-ff69b4.svg)](https://www.framer.com/motion/)
@@ -13,7 +13,7 @@ SoftSell is a modern web application built for a software license resale marketp
 
 ## Experience It
 
-**[Visit the SoftSell Platform →](https://softsell-llsob92b5-gayathri-k-binoys-projects.vercel.app/)**
+**[Visit the SoftSell Platform →](https://softsell-d1pep1r83-gayathri-k-binoys-projects.vercel.app/)**
 
 ## Key Sections
 
@@ -69,7 +69,7 @@ Our intelligent chat widget provides:
 
 ## Development
 
-This project was created as part of the Credex Web Development Internship challenge, focusing on modern web technologies and user experience design principles.
+This project was created as part of the Credex Web Development challenge, focusing on modern web technologies and user experience design principles.
 
 ---
 
